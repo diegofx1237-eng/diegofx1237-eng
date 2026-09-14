@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Diego Nascimento! 👋
 
-<!--
-**diegofx1237-eng/diegofx1237-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎂 **Idade:** 22 anos
+💍 **Estado civil:** Solteiro
+💻 **Formação:** Técnico em Informática
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Meu nome é **Diego Nascimento**, tenho 22 anos e sou Técnico em Informática. Sou apaixonado por tecnologia, programação e pelo mundo da informática.
+
+Busco constantemente aprimorar meus conhecimentos, aprender novas tecnologias e desenvolver projetos que contribuam para meu crescimento profissional.
+
+### 🛠️ Interesses
+
+* 💻 Tecnologia e Informática
+* 👨‍💻 Programação e desenvolvimento
+* 📚 Aprendizado contínuo
+* 🚀 Desenvolvimento de projetos
+
+### 📫 Vamos conectar?
+
+Seja bem-vindo ao meu perfil! Aqui você poderá acompanhar meus projetos, aprendizados e minha evolução na área de tecnologia.
+
+**Obrigado pela visita!** 🚀
